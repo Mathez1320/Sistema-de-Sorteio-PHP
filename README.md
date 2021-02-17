@@ -1,5 +1,8 @@
 # Sistema-de-Sorteio-PHP
-Criei um sistema de Sorteio bem legal com PHP  ;D 
+Criei um sistema de Sorteio bem legal com PHP  ;D e achei muito bom a curva de aprendizagem da linguagem.
+Amei trabalhar com PHP =D
+
+Irei definir algumas características do sistema da uma olhada! ;D 
 
 Objetivo do Sistema: 
 
